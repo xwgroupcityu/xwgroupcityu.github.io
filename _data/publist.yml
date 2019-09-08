@@ -1,5 +1,5 @@
 - title: "Fine particulate matter (PM2.5) trends in China, 2013–2018: separating contributions from anthropogenic emissions and meteorology"
- image: dummy.png
+  image: dummy.png
   description: ""
   authors: 
     S Zhai*, DJ Jacob, X Wang, L Shen, K Li, Y Zhang, K Gui, T Zhao, H Liao  
@@ -9,7 +9,7 @@
   highlight: 0
 
 - title: "Effect of sea salt aerosol on tropospheric bromine chemistry"
- image: dummy.png
+  image: dummy.png
   description: ""
   authors: 
     L Zhu*, DJ Jacob, SD Eastham, MP Sulprizio, X Wang, T Sherwen, MJ Evans, Q Chen, B Alexander, TK Koenig, R Volkamer, GL Huey, M Le Breton, TJ Bannan, CJ Percival
@@ -19,7 +19,7 @@
   highlight: 0
 
 - title: "The role of chlorine in global tropospheric chemistry"
- image: dummy.png
+  image: dummy.png
   description: ""
   authors: 
     X Wang*, DJ Jacob, SD Eastham, MP Sulprizio, L Zhu, Q Chen, B Alexander, T Sherwen, MJ Evans, BH Lee, JD Haskins, FD Lopez-Hilfiker, JA Thornton, GL Huey, H Liao      
@@ -29,7 +29,7 @@
   highlight: 0
 
 - title: "Exploring the observational constraints on the simulation of brown carbon"
- image: dummy.png
+  image: dummy.png
   description: ""
   authors: 
     X Wang*, CL Heald, J Liu, RJ Weber, P Campuzano-Jost, JL Jimenez, JP Schwarz, AE Perring      
@@ -61,7 +61,7 @@
   news1: <a style="color:#FF0000" href="https://www.nature.com/articles/515011d"> Featured in Nature Research Highlights</a>
 
 - title: "Top‐down estimate of China's black carbon emissions using surface observations: Sensitivity to observation representativeness and transport model error"
- image: dummy.png
+  image: dummy.png
   description: ""
   authors: 
     X Wang, Y Wang*, J Hao, Y Kondo, M Irwin, JW Munger, Y Zhao      

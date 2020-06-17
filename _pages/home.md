@@ -1,12 +1,12 @@
 ---
 title: Xuan Wang Group at CityU
 layout: homelay
-excerpt: Allan Lab at Leiden University.
+excerpt: Home
 sitemap: false
 permalink: "/"
 ---
 
-We are the Atmospheric Chemistry and Physics Modeling Group at City University of Hong Kong. Our researches focuse on chemical composition of the atmosphere and their impact on air quality and climate change. The group uses global and regional models with observations to study the complex interactions between atmospheric chemistry, meteorology, human activities, biological processes, air pollution and climate. 
+We are the Atmospheric Chemistry and Physics Modeling Group at City University of Hong Kong. Our researches focuse on chemical composition of the atmosphere and their impacts on air quality and climate change. The group uses global and regional models with observations to study the complex interactions between atmospheric chemistry, meteorology, human activities, biological processes, air pollution and climate. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

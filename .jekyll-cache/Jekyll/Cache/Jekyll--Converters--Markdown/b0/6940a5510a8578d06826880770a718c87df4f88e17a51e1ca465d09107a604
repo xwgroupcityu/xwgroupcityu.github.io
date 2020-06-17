@@ -1,4 +1,4 @@
-I"Ÿ<p>We are the Atmospheric Chemistry and Physics Modeling Group at City University of Hong Kong. Our researches focuse on chemical composition of the atmosphere and their impact on air quality and climate change. The group uses global and regional models with observations to study the complex interactions between atmospheric chemistry, meteorology, human activities, biological processes, air pollution and climate.</p>
+I"g<p>We are the Atmospheric Chemistry and Physics Modeling Group at City University of Hong Kong. Our researches focuse on chemical composition of the atmosphere and their impacts on air quality and climate change. The group uses global and regional models with observations to study the complex interactions between atmospheric chemistry, meteorology, human activities, biological processes, air pollution and climate.</p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
     <!-- Menu -->
@@ -6,17 +6,16 @@
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-	  		<li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner">
 
         <div class="item active">
-            <img src="http://localhost:4000/images/slider7001400/ChinaChlorine.jpg" alt="Slide 1" />
+            <img src="http://localhost:4000/images/slider7001400/chlorine.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/chlorine.jpg" alt="Slide 2" />
+            <img src="http://localhost:4000/images/slider7001400/ChinaChlorine.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="http://localhost:4000/images/slider7001400/brc.jpg" alt="Slide 3" />

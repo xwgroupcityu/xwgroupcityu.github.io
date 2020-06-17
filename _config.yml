@@ -29,4 +29,5 @@ kramdown:
   enable_coderay: false
   parse_block_html: true
 
-theme: jekyll-theme-leap-day
+# Google Analytics
+google_analytics: UA-169803756-1

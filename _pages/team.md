@@ -1,7 +1,7 @@
 ---
 title: People
 layout: gridlay
-excerpt: 'Allan Lab: Team members'
+excerpt: 'Team members'
 sitemap: false
 permalink: "/team/"
 ---
@@ -19,7 +19,7 @@ permalink: "/team/"
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>Office: {{ member.office }}<br>Tel: {{ member.tel }}      <br>

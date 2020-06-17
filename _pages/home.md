@@ -45,7 +45,7 @@ We are the Atmospheric Chemistry and Physics Modeling Group at City University o
 
 
 
- **We usually have openings for new PhD students, Postdocs, Master students, and undergradate students to join the team** [(check here)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We usually have openings for new PhD students, Postdocs, Master students, and undergradate students to join the team** [(check here)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 <figure class="second">

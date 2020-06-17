@@ -1,4 +1,4 @@
-I" <p>We are the Atmospheric Chemistry and Physics Modeling Group at City University of Hong Kong. Our researches focuse on chemical composition of the atmosphere and their impact on air quality and climate change. The group uses global and regional models with observations to study the complex interactions between atmospheric chemistry, meteorology, human activities, biological processes, air pollution and climate.</p>
+I"Ÿ<p>We are the Atmospheric Chemistry and Physics Modeling Group at City University of Hong Kong. Our researches focuse on chemical composition of the atmosphere and their impact on air quality and climate change. The group uses global and regional models with observations to study the complex interactions between atmospheric chemistry, meteorology, human activities, biological processes, air pollution and climate.</p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
     <!-- Menu -->
@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<p><strong>We usually have openings for new PhD students, Postdocs, Master students, and undergradate students to join the team</strong> <a href="http://localhost:4000/vacancies">(check here)</a> <strong>!</strong></p>
+<p><strong>We usually have openings for new PhD students, Postdocs, Master students, and undergradate students to join the team</strong> <a href="http://localhost:4000/openings">(check here)</a> <strong>!</strong></p>
 
 <figure class="second">
   <p><img src="http://localhost:4000/images/logopic/cityu_vertical_logo_rgb.jpg" style="width: 210px" />

@@ -1,0 +1,8 @@
+- name: Name
+  photo: rock.jpg
+  info: PhD student (2020.9 - )
+  tel:
+  email: example@my.cityu.edu.hk
+  number_educ: 2
+  education1: example
+  education2: example

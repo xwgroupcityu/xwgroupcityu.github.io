@@ -9,7 +9,7 @@
 
 - title: "Controlling particulate nitrate pollution in China"
   authors: 
-    S Zhai*, DJ Jacob, X Wang, Z Liu, T Wen, V Shah, K Li, J Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, HC Lee, H Choi, H Liao   
+    S Zhai, DJ Jacob, X Wang, Z Liu, T Wen, V Shah, K Li, J Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, HC Lee, H Choi, H Liao   
   submit: submitted to PNAS
   link:
     url: 
@@ -18,7 +18,7 @@
 
 - title: "Effects of anthropogenic chlorine on PM2.5 and ozone air quality in China"
   authors: 
-    X Wang*, DJ Jacob, X Fu, T Wang, M Le Breton, M Hallquist, Z Liu, EE McDuffie, H Liao   
+    X Wang, DJ Jacob, X Fu, T Wang, M Le Breton, M Hallquist, Z Liu, EE McDuffie, H Liao   
   submit: submitted to Environmental Science and Technology
   link:
     url: 
@@ -27,7 +27,7 @@
 
 - title: "Enhanced Aerosol Particle Growth Sustained by High Continental Chlorine Emission in India"
   authors: 
-    SS Gunthe*, P Liu*, U Panda, SS Raj, A Shama, E Debyshire, E Reyes-Villegas, Y Chen, X Wang, S Song, ML Pöhker, L Shi, Y Wang, SM Kommula, R Ravikrishna, N Ojha, G McFiggans,  LJ Mickley, ST Martin, U Pöschl, H Coe    
+    SS Gunthe, P Liu*, U Panda, SS Raj, A Shama, E Debyshire, E Reyes-Villegas, Y Chen, X Wang, S Song, ML Pöhker, L Shi, Y Wang, SM Kommula, R Ravikrishna, N Ojha, G McFiggans,  LJ Mickley, ST Martin, U Pöschl, H Coe    
   submit: submitted to Nature
   link:
     url: 
@@ -36,7 +36,7 @@
 
 - title: "Lifecycle of light-absorbing carbonaceous aerosols"
   authors: 
-    D Liu*, C He, JP Schwarz, X Wang  
+    D Liu, C He, JP Schwarz, X Wang  
   submit: submitted to npj Climate and Atmospheric Science
   link:
     url: 
@@ -45,7 +45,7 @@
 
 - title: "Observational constraints on ambient brown carbon with IMPROVE network observations"
   authors: 
-    N June*, X Wang, L-W A Chen, JC Chow, JG Watson. XL Wang, BH Henderson, Y Zheng, J Mao*    
+    N June, X Wang, L-W A Chen, JC Chow, JG Watson. XL Wang, BH Henderson, Y Zheng, J Mao*    
   submit: submitted to Environmental Science and Technology
   link:
     url: 
@@ -54,7 +54,7 @@
 
 - title: "An adaptive method for speeding up the numerical integration of chemical mechanisms in atmospheric chemistry models: application to GEOS-Chem version 12.0.0"
   authors: 
-    L Shen*, DJ Jacob, M Santillana, X Wang, W Chen    
+    L Shen, DJ Jacob, M Santillana, X Wang, W Chen    
   link:
     url: https://www.geosci-model-dev.net/13/2475/2020/
     display: Geoscientific Model Development, 13, 2475–2486,
@@ -62,7 +62,7 @@
   
 - title: "Effects of sea salt aerosol emissions for Marine Cloud Brightening on atmospheric chemistry: Implications for radiative forcing"
   authors: 
-    HM Horowitz*, C Holmes, A Wright, T Sherwen, X Wang, M Evans, J Huang, L Jaeglé, Q Chen, S Zhai, B Alexander    
+    HM Horowitz, C Holmes, A Wright, T Sherwen, X Wang, M Evans, J Huang, L Jaeglé, Q Chen, S Zhai, B Alexander    
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL085838
     display: Geophysical Research Letters, 47, e2019GL085838

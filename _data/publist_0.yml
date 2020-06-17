@@ -2,7 +2,7 @@
   image: dummy.png
   description: ""
   authors: 
-    X Wang*, CL Heald, J Liu, RJ Weber, P Campuzano-Jost, JL Jimenez, JP Schwarz, AE Perring      
+    X Wang, CL Heald, J Liu, RJ Weber, P Campuzano-Jost, JL Jimenez, JP Schwarz, AE Perring      
   link:
     url: https://www.atmos-chem-phys.net/18/635/2018/
     display: Atmospheric Chemistry and Physics 18 (18), 635–653
@@ -12,7 +12,7 @@
   image: dummy.png
   description: ""
   authors:
-    X Wang*, CL Heald, AJ Sedlacek, SS de Sá, ST Martin, ML Alexander, TB Watson, AC Aiken, SR Springston, P Artaxo
+    X Wang, CL Heald, AJ Sedlacek, SS de Sá, ST Martin, ML Alexander, TB Watson, AC Aiken, SR Springston, P Artaxo
   link:
     url: https://www.atmos-chem-phys.net/16/12733/2016/
     display: Atmospheric Chemistry and Physics 16 (19), 12733-12752
@@ -23,7 +23,7 @@
   image: dummy.png
   description: ""
   authors:
-    X Wang*, CL Heald, DA Ridley, JP Schwarz, JR Spackman, AE Perring, H Coe, D Liu, AD Clarke   
+    X Wang, CL Heald, DA Ridley, JP Schwarz, JR Spackman, AE Perring, H Coe, D Liu, AD Clarke   
   link:
     url: https://www.atmos-chem-phys.net/14/10989/2014/
     display: Atmospheric Chemistry and Physics 14 (20), 10989-11010
@@ -34,7 +34,7 @@
   image: dummy.png
   description: ""
   authors: 
-    X Wang, Y Wang*, J Hao, Y Kondo, M Irwin, JW Munger, Y Zhao      
+    X Wang, Y Wang, J Hao, Y Kondo, M Irwin, JW Munger, Y Zhao      
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrd.50397
     display: Journal of Geophysical Research, Atmospheres 118 (11), 5781-5795
@@ -44,7 +44,7 @@
   image: dummy.png
   description: ""
   authors:
-    Y Wang*, X Wang, Y Kondo, M Kajino, JW Munger, J Hao  
+    Y Wang, X Wang, Y Kondo, M Kajino, JW Munger, J Hao  
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JD016575
     display: Journal of Geophysical Research, Atmospheres 116 (D24)

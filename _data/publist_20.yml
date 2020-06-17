@@ -51,13 +51,21 @@
     url: 
     display: 
   highlight: 0
+  
+- title: "Constraining remote oxidation capacity with ATom observations"
+  authors: 
+    KR Travis, CL Heald, HM Allen, EC Apel, SR Arnold, DR Blake, WH Brune, X Chen, R Commane, JD Crounse, BC Daube, GS Diskin, JW Elkins, MJ Evans, SR Hall, EJ Hintsa, RS Hornbrook, PS Kasibhatla, MJ Kim, G Luo, K McKain, DB Millet, FL Moore, J Peischl, TB Ryerson, T Sherwen, AB Thames, K Ullmann, X Wang, PO Wennberg, GM Wolfe, F Yu    
+  link:
+    url: https://www.atmos-chem-phys-discuss.net/acp-2019-931/
+    display: Atmospheric Chemistry and Physics, in press
+  highlight: 0
 
 - title: "An adaptive method for speeding up the numerical integration of chemical mechanisms in atmospheric chemistry models: application to GEOS-Chem version 12.0.0"
   authors: 
     L Shen, DJ Jacob, M Santillana, X Wang, W Chen    
   link:
     url: https://www.geosci-model-dev.net/13/2475/2020/
-    display: Geoscientific Model Development, 13, 2475–2486,
+    display: Geoscientific Model Development, 13, 2475–2486
   highlight: 0
   
 - title: "Effects of sea salt aerosol emissions for Marine Cloud Brightening on atmospheric chemistry: Implications for radiative forcing"

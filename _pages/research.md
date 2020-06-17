@@ -33,7 +33,7 @@ In the group, we develop and use model shemes based on the GEOS-Chem global mode
 
 <br />
 
-Aerosols are importatn due to their adverse effects on human health and their direct and indirect radiative effects on climate. While  all aerosols scatter light, some aerosols are also able to absorb light. These absorptions are significant and very uncertain factors contributing to global climate forcing.  
+Aerosols are important due to their adverse effects on human health and their direct and indirect radiative effects on climate. While  all aerosols scatter light, some aerosols are also able to absorb light. These absorptions are significant and very uncertain factors contributing to global climate forcing.  
 
 In the group, we focuse on understanding the sources, lifecycles, and absorption properties of atmospheric aerosols. Current topics include: black carbon and brown carbon; aerosol radiative effects; influence of chemical aging on aerosol optical properties ...
 
@@ -48,9 +48,9 @@ In the group, we focuse on understanding the sources, lifecycles, and absorption
 
 <br />
 
-Air pollution in Asia is among the worst in the world and have significant impacts on public health and economy. Exposure to particulate matter (PM) and ozone, the major two air pollutants, are responsible for millions of deaths per year. Formations of these pollutants are largely affected by complex chemical reactions and meteorological processes. Recent new measurements in Asia provides important information for invesigating these processes.
+Air pollution in Asia is among the worst in the world and have significant impacts on public health and economy. Exposure to particulate matter (PM) and ozone, the major two air pollutants, are responsible for millions of deaths per year. Formations of these pollutants are largely affected by complex chemical reactions and meteorological processes. Recent new measurements in Asia provide important information for invesigating these processes.
 
-In the group, we combine model simulations and measurements analysis to explore the chemical mechanisms controling the formation of air pollutants, and make recommendations for air pollution control strategies. Current topics include: secondary aerosol formation; air quality in coastal environments ...
+In the group, we combine model simulations and measurement analysis to explore the chemical mechanisms controlling the formation of air pollutants, and make recommendations for air pollution control strategies. Current topics include: secondary aerosol formation; air quality in coastal environments ...
 
 <br />
 <br />

@@ -51,12 +51,8 @@ permalink: "/team/"
 </div>
 {% endif %}
 
-### Coming Soon
-<br/>
-<br/>
 
-
-<!--### PhD Students
+### PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_1 %}
 
@@ -71,15 +67,6 @@ permalink: "/team/"
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>Office: {{ member.office }}<br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
 		
 	</ul>
 </div>
@@ -96,4 +83,4 @@ permalink: "/team/"
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}-->
+{% endif %}

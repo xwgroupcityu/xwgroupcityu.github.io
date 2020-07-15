@@ -1,8 +1,11 @@
-- name: Name
-  photo: rock.jpg
+- name: Leyang Liu (刘乐杨)
+  photo: Leyang.jpg
   info: PhD student (2020.9 - )
-  tel:
-  email: example@my.cityu.edu.hk
-  number_educ: 2
-  education1: example
-  education2: example
+  office: TBD
+  email: TBD
+  
+- name: Hongqing Luo (罗泓清)
+  photo: Luo Hongqing.jpg
+  info: PhD student (2020.9 - )
+  office: TBD
+  email: TBD

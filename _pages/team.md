@@ -84,3 +84,8 @@ permalink: "/team/"
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+### Master and Undergraduate Students
+% for member in site.data.team_2 %}
+  {{ member.name }}</h4><i>{{ member.info }}<br><i>
+{% endfor %}

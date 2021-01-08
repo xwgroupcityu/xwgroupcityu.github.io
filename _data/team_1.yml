@@ -9,14 +9,13 @@
   photo: Luo hongqing.jpg
   info: PhD student (2020.9 - )
   email: hongqiluo2-c@my.cityu.edu.hk
-  number_educ: 2
-  education1: 'MEng, China University of Geosciences (Wuhan), 2020'
-  education2: 'BSc, China University of Geosciences (Wuhan), 2016'
+  number_educ: 1
+  education1: 'MEng/BSc, China University of Geosciences (Wuhan), 2020/2016'
   
 - name: Xiao He (何潇)
   photo: Xiao.jpg
   info: Postdoc (2021.1 - )
   email: lifeahe@163.com
   number_educ: 2
-  education1: 'PhD, The Hong Kong University of Science and Technology, 2020'
-  education2: 'BSc, University of Science and Technology of China, 2014'
+  education1: 'PhD, HKUST, 2020'
+  education2: 'BSc, USTC, 2014'

@@ -1,12 +1,3 @@
-- title: "Enhanced Aerosol Particle Growth Sustained by High Continental Chlorine Emission in India"
-  authors: 
-    SS Gunthe1, P Liu, U Panda, SS Raj, A Sharma, E Darbyshire, E Reyes-Villegas, J Allan, Y Chen, X Wang, S Song, ML Pöhlker, L Shi, Y Wang, SM Kommula, T Liu, R Ravikrishna, Gordon McFiggans, LJ Mickley, Scot T. Martin, Ulrich Pöschl, MO Andreae, H Coe 
-  submit: Nature Geoscience, in press
-  link:
-    url: 
-    display: 
-  highlight: 0
-
 - title: "Global modeling of cloudwater acidity, rainwater acidity, and acid inputs to ecosystems"
   authors: 
     V Shah V, DJ Jacob, JM Moch, X Wang, S Zhai  
@@ -15,14 +6,14 @@
     display: Atmospheric Chemistry and Physics, 20, 12223–12245.
   highlight: 0
 
-- title: "Controlling particulate nitrate pollution in China"
-  authors: 
-    S Zhai, DJ Jacob, X Wang, Z Liu, T Wen, V Shah, K Li, J Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, HC Lee, H Choi, H Liao   
-  submit: submitted to Nature Geoscience
-  link:
-    url: 
-    display: 
-  highlight: 0
+#- title: "Controlling particulate nitrate pollution in China"
+#  authors: 
+#    S Zhai, DJ Jacob, X Wang, Z Liu, T Wen, V Shah, K Li, J Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, HC Lee, H Choi, H Liao   
+#  submit: submitted to Nature Geoscience
+#  link:
+#    url: 
+#    display: 
+#  highlight: 0
 
 - title: "Effects of anthropogenic chlorine on PM2.5 and ozone air quality in China"
   authors: 

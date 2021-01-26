@@ -15,7 +15,6 @@ permalink: "/publications/"
 
 {% endfor %}
 
-# Publications
 ### 2020
 {% for publi in site.data.publist_20 %}
 

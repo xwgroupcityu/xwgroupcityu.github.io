@@ -94,10 +94,10 @@ permalink: "/team/"
 
 ### Master and Undergraduate Students
 {% for member in site.data.team_2 %}
-  <h4>{{ member.name }}   <i>{{ member.info }}</i></h4>
+  <h4>{{ member.name }},       <i>{{ member.info }}</i></h4>
 {% endfor %}
 
 ### Alumni
 {% for member in site.data.team_3 %}
-  <h4>{{ member.name }}   <i>{{ member.info }}</i>   Now: {{ member.now }}</h4>
+  <h4>{{ member.name }},       <i>{{ member.info }},      Now: {{ member.now }}</i></h4>
 {% endfor %}

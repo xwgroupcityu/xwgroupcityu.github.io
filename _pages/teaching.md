@@ -17,7 +17,7 @@ Course catalogue and syllabus for School of Energy and Environment at City Unive
 ### SEE4204 Environmental Systems Modeling
 (undergraduate core, spring)
 
-![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4204.jpg){: style="width: 410px; float: left; border: 10px;padding:5px"}
+![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4204.jpg){: style="width: 410px; float: left; border: 5px;padding:10px"}
 
 
 
@@ -32,7 +32,7 @@ The course has both lectures and tutorials at computing lab. Major topics includ
 ### SEE5201 Air Pollution and Atmospheric Chemistry
 (master elective, fall even years)
 
-![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see5201.jpg){: style="width: 450px; float: right; border: 10px;padding:5px"}
+![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see5201.jpg){: style="width: 450px; float: right; border: 5px;padding:10px"}
 
 <br />
 
@@ -49,7 +49,7 @@ Key topics include: chemistry concepts; atmospheric composition; meteorology and
 ### SEE4219 Air Quality Modeling
 (undergraduate elective, fall odd years)
 
-![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4219.jpg){: style="width: 390px; float: left; border: 10px;padding:5px"}
+![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4219.jpg){: style="width: 400px; float: left; border: 5px;padding:10px"}
 
 <br />
 

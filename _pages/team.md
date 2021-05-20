@@ -19,11 +19,11 @@ permalink: "/team/"
     <div class="carousel-photo-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2021.jpg" alt="Slide 1" />
+            
 	    <div class="carousel-img" style="background-image: url('{{ site.url }}{{ site.baseurl }}/images/teampic/gp2021.jpg')"></div>
-        <div class="carousel-caption">
-            <p>2021 Group Photo (during the COVID pandemic period)</p>
-	    <p>From left to right: Hongqing, Xuan, Leyang</p>
+            <div class="carousel-caption">
+                <p>2021 Group Photo (during the COVID pandemic period)</p>
+	        <p>From left to right: Hongqing, Xuan, Leyang</p>
         </div>
         
     </div>

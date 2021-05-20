@@ -6,6 +6,11 @@ sitemap: false
 permalink: "/team/"
 ---
 
+.carousel-indicators .carousel slide.active {
+  width: 50.00%;
+  height: auto;
+}
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">

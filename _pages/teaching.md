@@ -49,7 +49,7 @@ Key topics include: chemistry concepts; atmospheric composition; meteorology and
 ### SEE4219 Air Quality Modeling
 (undergraduate elective, fall odd years)
 
-![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4219.jpg){: style="width: 400px; float: left; border: 5px;padding:10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4219.jpg){: style="width: 410px; float: left; border: 5px;padding:10px"}
 
 <br />
 

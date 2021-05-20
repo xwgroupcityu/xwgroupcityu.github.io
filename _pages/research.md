@@ -21,21 +21,21 @@ Here are the main research themes in our group:
 
 Tropospheric chemsitry contributes to a series of issues in the earth system, such as air pollution, climate change, and ecological destruction. Modeling plays an important role in studying tropospheric chemistry by identifying processes, interpreting observations, assessing impacts, and making projections. 
 
-In the group, we develop and use model schemes based on the GEOS-Chem global model framework to study the oxidants, gases, aerosols, and foundamental chemistry in troposphere. Current topics inlcude: global halogen budget and chemistry; impacts of ocean on atmosphere; heterogeneous reactions around tropopause ...
+In the group, we develop and use model schemes based on the GEOS-Chem global model framework to study the oxidants, gases, aerosols, and foundamental chemistry in troposphere. Current topics inlcude: tropospheric halogen chemistry; aqueous phase oxidation; SOA model scheme; heterogeneous reactions in clouds ...
 
 <br/>
 <br/>
 
 ----
-## Aerosol Absorptions and their Impacts on Climate
+## Aerosol Optical Properties and their Impacts on Climate
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brc.gif){: style="width: 420px; float: left; border: 10px;padding:15px"}
 
 <br />
 
-Aerosols are important due to their adverse effects on human health and their direct and indirect radiative effects on climate. While  all aerosols scatter light, some aerosols are also able to absorb light. These absorptions are significant and very uncertain factors contributing to global climate forcing.  
+Aerosols are important due to their adverse effects on human health and their direct and indirect radiative effects on climate. While  all aerosols scatter light, some aerosols are also able to absorb light. These optical properties are significant and very uncertain factors contributing to global climate forcing.  
 
-In the group, we focus on understanding the sources, lifecycles, and absorption properties of atmospheric aerosols. Current topics include: black carbon and brown carbon; aerosol radiative effects; influence of chemical aging on aerosol optical properties ...
+In the group, we focus on understanding the sources, lifecycles, and absorption properties of atmospheric aerosols. Current topics include: black carbon and brown carbon; aerosol direct radiative effects; influence of chemical aging on aerosol optical properties; effects of policy-driven changes ...
 
 <br/>
 <br/>
@@ -50,7 +50,7 @@ In the group, we focus on understanding the sources, lifecycles, and absorption 
 
 Air pollution in Asia is among the worst in the world and have significant impacts on public health and economy. Exposure to particulate matter (PM) and ozone, the major two air pollutants, are responsible for millions of deaths per year. Formations of these pollutants are largely affected by complex chemical reactions and meteorological processes. Recent new measurements in Asia provide important information for invesigating these processes.
 
-In the group, we combine model simulations and measurement analysis to explore the chemical mechanisms controlling the formation of air pollutants, and make recommendations for air pollution control strategies. Current topics include: secondary aerosol formation; air quality in coastal environments ...
+In the group, we combine model simulations and measurement analysis to explore the chemical mechanisms controlling the formation of air pollutants, and make recommendations for air pollution control strategies. Current topics include: secondary aerosol formation; air quality in coastal environments; constraining traffic sources ...
 
 <br />
 <br />

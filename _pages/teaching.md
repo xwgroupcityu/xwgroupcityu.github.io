@@ -49,13 +49,14 @@ Key topics include: chemistry concepts; atmospheric composition; meteorology and
 ### SEE4219 Air Quality Modeling
 (undergraduate elective, fall odd years)
 
-![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4219.jpg){: style="width: 410px; float: left; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4219.jpg){: style="width: 380px; float: left; border: 10px;padding:15px"}
 
 Air quality models have become fundamental tools to analyze observations, understand relationships, test hypotheses, and project future evolution for air pollution. This course is aimed to provide insight into the methods used in air quality modelling. It will focus on both theory and practice, from the fundamental principles behind models to their applications in interpreting air pollution. 
 
 Key topics include: steady-state dispersion models; Lagrangian transport models; indoor air quality models; chemical transport models; model application and evaluation.
 
 
+<br/>
 <br/>
 
 

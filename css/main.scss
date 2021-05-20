@@ -88,7 +88,8 @@ firstp {
 }
     
 .carousel-photo-inner {
-    margin: 30px auto;
+    margin-left: 30px auto;
+    margin-right: 30px auto;
 }
 
 .carousel-photo-inner img { 
@@ -96,5 +97,7 @@ firstp {
     max-height:65%;
     width: auto; 
     height: auto; 
-    vertical-align: middle
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
 }

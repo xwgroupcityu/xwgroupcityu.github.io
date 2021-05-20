@@ -100,3 +100,9 @@ firstp {
     margin-right: 230px auto;
 }
 
+.carousel-photo-inner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+

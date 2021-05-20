@@ -21,7 +21,7 @@ permalink: "/team/"
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2021.jpg" alt="Slide 1" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<h5>2021 Group Photo (during the COVID pandemic period</h5>
+    		<p>2021 Group Photo (during the COVID pandemic period</p>
     		<p>From left to right: Hongqing, Xuan, Leyang</p>
   	    </div>
 	    

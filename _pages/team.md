@@ -7,7 +7,7 @@ permalink: "/team/"
 ---
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel-photo" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
 	
     <!-- Menu -->
     <ol class="carousel-indicators">

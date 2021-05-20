@@ -7,7 +7,7 @@ permalink: "/team/"
 ---
 
 
-<div markdown="0" id="carousel-photo" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
 	
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -16,7 +16,7 @@ permalink: "/team/"
     </ol>
 
     <!-- Items -->
-    <div class="carousel-photo-inner" markdown="0">
+    <div class="carousel" markdown="0">
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2021.png" alt="Slide 1" />

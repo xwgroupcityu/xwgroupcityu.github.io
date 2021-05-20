@@ -47,7 +47,7 @@ Key topics include: chemistry concepts; atmospheric composition; meteorology and
 ----
 
 ### SEE4204 Environmental Systems Modeling
-(undergraduate core, spring)
+(undergraduate elective, fall odd years)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4219.jpg){: style="width: 410px; float: left; border: 10px;padding:15px"}
 

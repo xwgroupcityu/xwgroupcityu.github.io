@@ -1,7 +1,9 @@
 - title: "Global tropospheric halogen (Cl, Br, I) chemistry and its impact on oxidants"
   authors: 
     X Wang, DJ Jacob, W Downs, S Zhai, L Zhu, V Shah, CD Holmes, T Sherwen, B Alexander, MJ Evans, SD Eastham, JA Neuman, P Veres, TK Koenig, R Volkamer, GL Huey, TJ Bannan, CJ Percival, BH Lee, JA Thornton 
-  submit: "submitted to Atmospheric Chemistry and Physics"
+  link:
+    url: https://acp.copernicus.org/preprints/acp-2021-441/
+    display: "submitted to Atmospheric Chemistry and Physics"
   highlight: 0
 
 - title: "Heterogeneous Nitrate Production Mechanisms in Intense Haze Events in the North China Plain"

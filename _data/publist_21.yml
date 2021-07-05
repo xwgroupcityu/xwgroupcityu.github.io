@@ -1,6 +1,14 @@
+- title: "Anthropogenic Impacts on Tropospheric Reactive Chlorine since the Preindustrial"
+  authors: 
+    S-T Zhai, X Wang, JR McConnell, L Geng, J Cole-Di, M Sigl, N Chelman, T Sherwen, R Pound, K Fujita, SHattori, JM Moch, L Zhu, MJ Evans, M Legrand, P Liu, D Pasteris, YC Chan, LT Murray, B Alexander
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093808
+    display: "Geophyscial Research Letters, doi:10.1029/2021GL093808"
+  highlight: 0
+
 - title: "Global tropospheric halogen (Cl, Br, I) chemistry and its impact on oxidants"
   authors: 
-    X Wang, DJ Jacob, W Downs, S Zhai, L Zhu, V Shah, CD Holmes, T Sherwen, B Alexander, MJ Evans, SD Eastham, JA Neuman, P Veres, TK Koenig, R Volkamer, GL Huey, TJ Bannan, CJ Percival, BH Lee, JA Thornton 
+    X Wang, DJ Jacob, W Downs, S-T Zhai, L Zhu, V Shah, CD Holmes, T Sherwen, B Alexander, MJ Evans, SD Eastham, JA Neuman, P Veres, TK Koenig, R Volkamer, GL Huey, TJ Bannan, CJ Percival, BH Lee, JA Thornton 
   link:
     url: https://acp.copernicus.org/preprints/acp-2021-441/
     display: "submitted to Atmospheric Chemistry and Physics"
@@ -8,7 +16,7 @@
 
 - title: "Heterogeneous Nitrate Production Mechanisms in Intense Haze Events in the North China Plain"
   authors: 
-    YC Chan, MJ Evans, P He, CD Holmes, L Jaeglé, P Kasibhatla, XY Liu, T Sherwen, JA Thornton, X Wang, Z Xie, S Zhai, B Alexander   
+    YC Chan, MJ Evans, P He, CD Holmes, L Jaeglé, P Kasibhatla, XY Liu, T Sherwen, JA Thornton, X Wang, Z Xie, S-T Zhai, B Alexander   
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD034688
     display: "Journal of Geophysical Research: Atmospheres, 126, e2021JD034688"
@@ -16,10 +24,10 @@
   
 - title: "Control of particulate nitrate air pollution in China"
   authors: 
-    S Zhai, DJ Jacob, X Wang, Z Liu, T Wen, V Shah, K Li, JM Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, Y Wang, HC Lee, H Choi, H Liao   
+    S-X Zhai, DJ Jacob, X Wang, Z Liu, T Wen, V Shah, K Li, JM Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, Y Wang, HC Lee, H Choi, H Liao   
   link:
     url: https://doi.org/10.1038/s41561-021-00726-z
-    display: Nature Geoscience, https://doi.org/10.1038/s41561-021-00726-z
+    display: Nature Geoscience, 14, 389–395.
   highlight: 0
 
 - title: "Enhanced Aerosol Particle Growth Sustained by High Continental Chlorine Emission in India"

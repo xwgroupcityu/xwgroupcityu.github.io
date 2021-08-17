@@ -125,10 +125,12 @@ permalink: "/team/"
 </div>
 {% endif %}
 
+{% comment %}
 ### Master and Undergraduate Students
 {% for member in site.data.team_2 %}
   <h5>{{ member.name }},       <i>{{ member.info }}</i></h5>
 {% endfor %}
+{% endcomment %}
 
 ### Alumni
 {% for member in site.data.team_3 %}

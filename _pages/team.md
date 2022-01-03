@@ -126,9 +126,9 @@ permalink: "/team/"
 {% endif %}
 
 ### Co-supervised students in Prof. Wen Zhou's group at Fudan University
-	<h5>WIDANA ARACHCHIGE Erandani Lakshani, <i>PhD student(2020.9 - )</i></h5>
-	<h5>WIJENDRA NAIDHELAGE Dushantha Sandaruwan Jayarathna, <i>PhD student(2021.5 - )</i></h5>
-	<h5>ADEYERI Oluwafemi Ebenezer, <i>PhD student(2021.9 - )</i></h5>
+<h5>WIDANA ARACHCHIGE Erandani Lakshani, <i>PhD student(2020.9 - )</i></h5>
+<h5>WIJENDRA NAIDHELAGE Dushantha Sandaruwan Jayarathna, <i>PhD student(2021.5 - )</i></h5>
+<h5>ADEYERI Oluwafemi Ebenezer, <i>PhD student(2021.9 - )</i></h5>
 
 {% comment %}
 ### Master and Undergraduate Students

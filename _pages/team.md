@@ -125,7 +125,7 @@ permalink: "/team/"
 </div>
 {% endif %}
 
-### Co-supervised students in [Prof. Wen Zhou](https://www.cityu.edu.hk/see/people/prof-wen-zhou).'s group at Fudan University
+### Co-supervised students in [Prof. Wen Zhou](https://www.cityu.edu.hk/see/people/prof-wen-zhou)'s group at Fudan University
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_10 %}

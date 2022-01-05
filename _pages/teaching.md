@@ -8,7 +8,7 @@ permalink: "/teaching/"
 
 # Teaching
 
-Course catalogue and syllabus for School of Energy and Environment at City University of Hong Kong  can be found [here](https://www.cityu.edu.hk/see/acad_prog.htm).
+Course catalogue and syllabus for School of Energy and Environment at City University of Hong Kong  can be found [here](https://www.cityu.edu.hk/see/programmes).
 
 
 

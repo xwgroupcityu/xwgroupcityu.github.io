@@ -27,15 +27,16 @@ In the group, we develop and use model schemes based on the GEOS-Chem global mod
 <br/>
 
 ----
-## Aerosol Optical Properties and their Impacts on Climate
+## Climate Forcers and Their Impacts
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brc.gif){: style="width: 420px; float: left; border: 10px;padding:15px"}
 
 <br />
 
-Aerosols are important due to their adverse effects on human health and their direct and indirect radiative effects on climate. While  all aerosols scatter light, some aerosols are also able to absorb light. These optical properties are significant and very uncertain factors contributing to global climate forcing.  
+The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the properties and chemistry of climate forcers, especially those short-lived climate forcers, are significant and very uncertain factors contributing to global climate change.  
 
-In the group, we focus on understanding the sources, lifecycles, and absorption properties of atmospheric aerosols. Current topics include: black carbon and brown carbon; aerosol direct radiative effects; influence of chemical aging on aerosol optical properties; effects of policy-driven changes ...
+In the group, we focus on understanding the lifecycles and properties of hort-lived climate forcers, as well as their interaction with climate policy. Current topics include: optical properties of brown carbon; halogens' climate impact, effects of future urban planning-driven changes under the carbon neutrality background  ...
+
 
 <br/>
 <br/>

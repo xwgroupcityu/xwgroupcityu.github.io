@@ -35,7 +35,7 @@ In the group, we develop and use model schemes based on the GEOS-Chem global mod
 
 The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the properties and chemistry of climate forcers, especially those short-lived climate forcers, are significant and very uncertain factors contributing to global climate change.  
 
-In the group, we focus on understanding the lifecycles and properties of hort-lived climate forcers, as well as their interaction with climate policy. Current topics include: optical properties of brown carbon; halogens' climate impact, effects of future urban planning-driven changes under the carbon neutrality background  ...
+In the group, we focus on understanding the lifecycles and properties of short-lived climate forcers, as well as their interactions with climate policy. Current topics include: optical properties of brown carbon; halogens' climate impact, effects of future urban planning-driven changes under the carbon neutrality background in East Asia ...
 
 
 <br/>

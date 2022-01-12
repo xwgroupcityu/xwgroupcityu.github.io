@@ -27,7 +27,7 @@ In the group, we develop and use model schemes based on the GEOS-Chem global mod
 <br/>
 
 ----
-## Climate Forcers and Their Impacts
+## Climate Forcers and their Impacts
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brc.gif){: style="width: 420px; float: left; border: 10px;padding:15px"}
 

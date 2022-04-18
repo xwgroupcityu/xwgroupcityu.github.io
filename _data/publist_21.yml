@@ -12,7 +12,7 @@
   submit: 
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095740
-    display: Geophyscial Research Letters, doi:10.1029/2021GL095740
+    display: Geophyscial Research Letters, 48, 21, e2021GL095740
   highlight: 0
 
 - title: "Understanding Sources of Atmospheric Hydrogen Chloride in Coastal Spring and Continental Winter"
@@ -21,7 +21,7 @@
   submit: 
   link:
     url: https://pubs.acs.org/doi/10.1021/acsearthspacechem.1c00193
-    display: ACS Earth Space Chem, doi:10.1021/acsearthspacechem.1c00193
+    display: ACS Earth Space Chem, 5, 9, 2507–2516
   highlight: 0
 
 - title: "Improved Mechanistic Model of the Atmospheric Redox Chemistry of Mercury"
@@ -30,7 +30,7 @@
   submit: 
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.est.1c03160
-    display: Environmental Science and Technology, doi:10.1021/acs.est.1c03160
+    display: Environmental Science and Technology, 55, 21, 14445–14456
   highlight: 0
 
 - title: "Anthropogenic Impacts on Tropospheric Reactive Chlorine since the Preindustrial"
@@ -38,7 +38,7 @@
     S-T Zhai, X Wang, JR McConnell, L Geng, J Cole-Di, M Sigl, N Chelman, T Sherwen, R Pound, K Fujita, SHattori, JM Moch, L Zhu, MJ Evans, M Legrand, P Liu, D Pasteris, YC Chan, LT Murray, B Alexander
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093808
-    display: "Geophyscial Research Letters, doi:10.1029/2021GL093808"
+    display: "Geophyscial Research Letters, 48, 14, e2021GL093808"
   highlight: 0
 
 - title: "Global tropospheric halogen (Cl, Br, I) chemistry and its impact on oxidants"

@@ -18,14 +18,23 @@ permalink: "/team/"
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2021.png" alt="Slide 1" />
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2022.png" alt="Slide 1" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>2021 Group Photo (during the COVID pandemic period</p>
-    		<p>From left to right: Hongqing, Xuan, Leyang</p>
-  	    </div>
+    		<p>2022 Group Photo via Zoom</p>
+    		<p>(during the 5th wave of Covid in Hong Kong c</p>
+  	    </div>  
+        </div>   
 	    
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2021.png" alt="Slide 2" />
+	    <div class="carousel-caption d-none d-md-block">
+    		<p>2021 Group Photo</p>
+    		<p>From left to right: Hongqing, Xuan, Leyang</p>
+  	    </div>  
         </div>
+	
+	   
         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

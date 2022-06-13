@@ -21,8 +21,7 @@ permalink: "/team/"
 	<div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2022.png" alt="Slide 1" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>2022 Group Photo via Zoom</p>
-    		<p>(during the 5th wave of Covid in Hong Kong c</p>
+    		<p>2022 Group Photo via Zoom (during the 5th wave of Covid in Hong Kong)</p>
   	    </div>  
         </div>   
 	    

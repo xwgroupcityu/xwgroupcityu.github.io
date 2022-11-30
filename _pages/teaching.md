@@ -29,8 +29,8 @@ The course has both lectures and tutorials at computing lab. Major topics includ
 <br/>
 
 ----
-### SEE5201 Air Pollution and Atmospheric Chemistry
-(master elective, sprin odd years)
+### SEE5201/8211 Air Pollution and Atmospheric Chemistry
+(MSc and PhD elective, spring odd years)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see5201.jpg){: style="width: 450px; float: right; border: 5px;padding:10px"}
 

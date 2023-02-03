@@ -7,7 +7,7 @@ permalink: "/publications/"
 ---
 
 # Publications
-### 2022
+### 2023
 {% for publi in site.data.publist_23 %}
 
   {{ publi.title }} <br />

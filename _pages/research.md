@@ -45,7 +45,7 @@ In the group, we focus on understanding the lifecycles of atmopsheric aerosols, 
 
 ----
 ## Beyond Atmospheric Chemistry
-![]({{ site.url }}{{ site.baseurl }}/images/respic/md.jpg){: style="width: 520px; float: right; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/md.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
 
 <br />
 

@@ -8,12 +8,12 @@ permalink: "/research/"
 
 # Research
 
-Our overarching goal is to explore and understand atmospheric compositions and their impacts on pollution and climate. To do so, we use chemical transport models (CTM) together with observations (from all scales: ground, drone, aircraft, satellite, etc.) to study the chemistry and physics in the atmosphere. 
+Our overarching goal is to explore and understand atmospheric compositions and their impacts on pollution and climate. To do so, we use chemical transport models (CTM) together with observations (from all scales: ground, drone, aircraft, satellite, etc.) to study the chemistry and physics in the atmosphere and biosphere.
 
 Here are the main research themes in our group:
 
 
-## Modeling of Global Tropospheric Chemistry
+## Modeling of Global and Regional Tropospheric Chemistry
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/chlorine.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
 
@@ -21,21 +21,21 @@ Here are the main research themes in our group:
 
 Tropospheric chemsitry contributes to a series of issues in the earth system, such as air pollution, climate change, and ecological destruction. Modeling plays an important role in studying tropospheric chemistry by identifying processes, interpreting observations, assessing impacts, and making projections. 
 
-In the group, we develop and use model schemes based on the GEOS-Chem global model framework to study the oxidants, gases, aerosols, and foundamental chemistry in troposphere. Current topics inlcude: tropospheric halogen chemistry; aqueous phase oxidation; SOA model scheme; heterogeneous reactions in clouds ...
+In the group, we develop and use model schemes based on the GEOS-Chem global model framework to study the oxidants, gases, aerosols, and foundamental chemistry in troposphere. Current topics inlcude: tropospheric halogen chemistry; secondary aerosol formation;  heterogeneous reactions; air quality in coastal environments ...
 
 <br/>
 <br/>
 
 ----
-## Climate Forcers and their Impacts
+## Aerosol Sources and Climate Effects
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brc.gif){: style="width: 420px; float: left; border: 10px;padding:15px"}
 
 <br />
 
-The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the properties and chemistry of climate forcers, especially those short-lived climate forcers, are significant and very uncertain factors contributing to global climate change.  
+The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the sources and properties of atmospheric aerosols are significant and very uncertain factors contributing to global climate change.  
 
-In the group, we focus on understanding the lifecycles and properties of short-lived climate forcers, as well as their interactions with climate policy. Current topics include: optical properties of brown carbon; halogens' climate impact, effects of future urban planning-driven changes under the carbon neutrality background in East Asia ...
+In the group, we focus on understanding the lifecycles of atmopsheric aerosols, as well as their interactions with climate system. Current topics include: aerosol direct radiative forcing; black and brown carbon; coarse aerosols ...
 
 
 <br/>
@@ -44,14 +44,14 @@ In the group, we focus on understanding the lifecycles and properties of short-l
 <br/>
 
 ----
-## Regional Air Quality in Asia
+## Beyond Atmospheric Chemistry
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/hk.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
 
 <br />
 
-Air pollution in Asia is among the worst in the world and have significant impacts on public health and economy. Exposure to particulate matter (PM) and ozone, the major two air pollutants, are responsible for millions of deaths per year. Formations of these pollutants are largely affected by complex chemical reactions and meteorological processes. Recent new measurements in Asia provide important information for invesigating these processes.
+We are actively exploring possiblities of applying atmopsheric sciences and our modeling techniques on solving other environmental and engergy problems. This includes developments of new model methods and assisting the designs of carbon neutral strategies. 
 
-In the group, we combine model simulations and measurement analysis to explore the chemical mechanisms controlling the formation of air pollutants, and make recommendations for air pollution control strategies. Current topics include: secondary aerosol formation; air quality in coastal environments; constraining traffic sources ...
+Current topics in the group include: urban planning and carbon cycle; mathematical model for urban climate policy; life-cycle assessment with considering nonlinear physics and chemsitry ...
 
 <br />
 <br />

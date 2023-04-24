@@ -195,7 +195,7 @@ permalink: "/team/"
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Now: {{ member.now }}<br>Web: <a href="{{ member.link }}">{{ member.link }}</a></i>
+  <i>{{ member.info }}<br>Now: <a href="{{ member.link }}">{{ member.now }}</a></i>
   <ul style="overflow: hidden">
 		
 	</ul>

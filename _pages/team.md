@@ -185,5 +185,5 @@ permalink: "/team/"
 
 ## Alumni
 {% for member in site.data.team_3 %}
-  <h5>{{ member.name }},       <i>{{ member.info }},      Now: {{ member.now }}</i></h5>
+  <h5>{{ member.name }},       <i>{{ member.info }},      Now: {{ member.now }}	 {{ member.link }}</i></h5>
 {% endfor %}

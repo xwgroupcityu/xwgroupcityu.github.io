@@ -1,6 +1,14 @@
+- title: "Multivariate Drought Monitoring, Propagation, and Projection Using Bias-Corrected General Circulation Models"
+  authors: 
+    OE Adeyeri, W Zhou, P Laux, CE Ndehedehe, X Wang, M Usman, AA Akinsanola
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003303
+    display: "Earth's Future, 11, 4, e2022EF003303"
+  highlight: 0
+
 - title: "Land use and land cover dynamics: Implications for thermal stress and energy demands"
   authors: 
-    OE Adeyeri, WZhou, P Laux, X Wang, D Dieng, LAE Widana, M Usman
+    OE Adeyeri, W Zhou, P Laux, X Wang, D Dieng, LAE Widana, M Usman
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1364032123001302?via%3Dihub
     display: "Renewable and Sustainable Energy Reviews, 179, 113274."

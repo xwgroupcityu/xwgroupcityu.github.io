@@ -8,7 +8,7 @@ permalink: "/publications/"
 
 # Publications
 ### 2024
-{% for publi in site.data.publist_23 %}
+{% for publi in site.data.publist_24 %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>  <em>{{ publi.submit }} </em><br /> 

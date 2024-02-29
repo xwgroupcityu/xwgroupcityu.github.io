@@ -23,7 +23,7 @@ permalink: "/team/"
 	<div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ny2024.jpg" alt="Slide 1" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>Group celebrating the Year of the Dragon!</p>
+    		<p>Group celebrating the Year of the Loong!</p>
   	    </div>  
         </div> 
 	

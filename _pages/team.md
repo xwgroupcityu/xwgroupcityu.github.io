@@ -67,13 +67,15 @@ permalink: "/team/"
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_0 %}
-[Full CV (as of April 2024)](CV.pdf) 
+
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
+	
+[Full CV (as of April 2024)](_data/CV.pdf) 
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />

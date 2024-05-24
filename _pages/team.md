@@ -108,7 +108,7 @@ permalink: "/team/"
 </div>
 {% endif %}
 
-		[Full CV (as of April 2024)](CV.pdf) 
+               [Full CV (as of April 2024)](CV.pdf) 
 
 ## Current Group Members
 

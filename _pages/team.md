@@ -67,6 +67,7 @@ permalink: "/team/"
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_0 %}
+[Full CV (as of April 2024)](CV.pdf) 
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

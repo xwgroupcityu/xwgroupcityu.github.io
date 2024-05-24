@@ -74,8 +74,7 @@ permalink: "/team/"
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-	
-[Full CV (as of April 2024)](_data/CV.pdf) 
+
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
@@ -108,6 +107,8 @@ permalink: "/team/"
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+		[Full CV (as of April 2024)](CV.pdf) 
 
 ## Current Group Members
 

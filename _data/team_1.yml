@@ -51,8 +51,10 @@
   education1: 'MSc, Institute of Earth Environment, Chinese Academy of Sciences, 2023'
   education2: 'BSc, Shaanxi Normal University, 2020'
 
-  - name: Yuwei Zhou (周雨薇)
+- name: Yuwei Zhou (周雨薇)
+  photo: Yuwei.jpg
   info: PhD student (2024.9 - )
+  email: yuweizhou9-c@my.cityu.edu.hk
   number_educ: 2
   education1: 'MSc, Macau University of Science and Technology, 2022'
   education2: 'BSc, Nanjing University, 2020'

@@ -28,7 +28,7 @@
   education1: 'MSc, Wageningen University & Research, 2020'
   education2: 'BSc, Sichuan University, 2018'
   
-- name: Yanjun Guo (郭妍君/郭妍君)
+- name: Yanjun Guo (郭妍君)
   photo: Yanjun.jpg
   info: PhD student (2022.9 - )
   email: yanjunguo3-c@my.cityu.edu.hk
@@ -51,13 +51,13 @@
   education1: 'MSc, Institute of Earth Environment, Chinese Academy of Sciences, 2023'
   education2: 'BSc, Shaanxi Normal University, 2020'
 
+  - name: Yuwei Zhou (周雨薇)
+  info: PhD student (2024.9 - )
+  number_educ: 2
+  education1: 'MSc, Macau University of Science and Technology, 2022'
+  education2: 'BSc, Nanjing University, 2020'
+
 - name: Hao Yin
   info: Postdoctoral Fellow (joining in 2024.9)
   number_educ: 1
   education1: 'PhD, University of Science and Technology of China, 2023'
-
-- name: Yuwei Zhou
-  info: PhD student (joining in 2024.9)
-  number_educ: 2
-  education1: 'MSc, Macau University of Science and Technology, 2022'
-  education2: 'BSc, Nanjing University, 2020'

@@ -108,7 +108,10 @@ permalink: "/team/"
 </div>
 {% endif %}
 
+{% comment %}
 [Full CV (as of April 2024)](CV.pdf) 
+	{% endcomment %}
+
 ## Current Group Members
 
 {% assign number_printed = 0 %}

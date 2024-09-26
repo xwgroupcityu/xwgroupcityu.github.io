@@ -1,3 +1,9 @@
+- name: Hao Yin
+  photo: YinHao.jpg
+  info: Postdoctoral Fellow (2024.9 - )
+  number_educ: 1
+  education1: 'PhD, University of Science and Technology of China, 2023'
+
 - name: Leyang Liu (刘乐杨/劉樂楊)
   photo: Leyang.jpg
   info: PhD student (2020.9 - )
@@ -43,14 +49,6 @@
   number_educ: 1
   education1: 'MSc/BSc, China University of Mining and Technology, 2023/2020'
 
-- name: Shuoyuan Chen (陈铄元/陳爍元)
-  photo: Shuoyuan.jpg
-  info: Research Assistant (2023.11 - )
-  email: shuochen@cityu.edu.hk
-  number_educ: 2
-  education1: 'MSc, Institute of Earth Environment, Chinese Academy of Sciences, 2023'
-  education2: 'BSc, Shaanxi Normal University, 2020'
-
 - name: Yuwei Zhou (周雨薇)
   photo: Yuwei.jpg
   info: PhD student (2024.9 - )
@@ -59,7 +57,10 @@
   education1: 'MSc, Macau University of Science and Technology, 2022'
   education2: 'BSc, Nanjing University, 2020'
 
-- name: Hao Yin
-  info: Postdoctoral Fellow (joining in 2024.9)
-  number_educ: 1
-  education1: 'PhD, University of Science and Technology of China, 2023'
+- name: Shuoyuan Chen (陈铄元/陳爍元)
+  photo: Shuoyuan.jpg
+  info: Research Assistant (2023.11 - )
+  email: shuochen@cityu.edu.hk
+  number_educ: 2
+  education1: 'MSc, Institute of Earth Environment, Chinese Academy of Sciences, 2023'
+  education2: 'BSc, Shaanxi Normal University, 2020'

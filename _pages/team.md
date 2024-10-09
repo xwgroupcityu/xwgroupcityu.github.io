@@ -25,7 +25,7 @@ permalink: "/team/"
 	<div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2024.jpg" alt="Slide 0" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>2021 Group Photo</p>
+    		<p>2024 Group Photo</p>
     		<p>From left to right: Yuwei, Yuxin, Yanjun, Shuoyuan, Xi, Xuan,Leyang,Hao. Missing: Yixuan&Hongqing</p>
   	    </div>  
         </div> 

@@ -14,6 +14,8 @@ permalink: "/team/"
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
 	<li data-target="#carousel" data-slide-to="1"></li>
 	<li data-target="#carousel" data-slide-to="2"></li>
+ 	<li data-target="#carousel" data-slide-to="3"></li>
+  	<li data-target="#carousel" data-slide-to="4"></li>
 	    
     </ol>
 
@@ -21,6 +23,14 @@ permalink: "/team/"
     <div class="carousel-inner" markdown="0">
 
 	<div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2024.jpg" alt="Slide 0" />
+	    <div class="carousel-caption d-none d-md-block">
+    		<p>2021 Group Photo</p>
+    		<p>From left to right: Yuwei, Yuxin, Yanjun, Shuoyuan, Xi, Xuan,Leyang,Hao. Missing: Yixuan&Hongqing</p>
+  	    </div>  
+        </div> 
+
+	<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ny2024.jpg" alt="Slide 1" />
 	    <div class="carousel-caption d-none d-md-block">
     		<p>Group celebrating the Year of the Loong!</p>
@@ -28,21 +38,21 @@ permalink: "/team/"
         </div> 
 	
  	<div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ny2023.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ny2023.jpg" alt="Slide 2" />
 	    <div class="carousel-caption d-none d-md-block">
     		<p>Group celebrating the Year of the Rabbit!</p>
   	    </div>  
         </div>   
 	  
 	<div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2022.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2022.png" alt="Slide 3" />
 	    <div class="carousel-caption d-none d-md-block">
     		<p>2022 Group Photo via Zoom (during the 5th wave of Covid in Hong Kong)</p>
   	    </div>  
         </div> 
 	    
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2021.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gp2021.png" alt="Slide 4" />
 	    <div class="carousel-caption d-none d-md-block">
     		<p>2021 Group Photo</p>
     		<p>From left to right: Hongqing, Xuan, Leyang</p>

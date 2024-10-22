@@ -223,7 +223,7 @@ permalink: "/team/"
   <br>Now: <a href="{{ member.link }}">{{ member.now }}</a>
   {% endif %}
   {% if member.linkable == 0 %}
-  <br>Now: {{ member.now }}</i>
+  <br>Now: {{ member.now }}
   {% endif %}
   <ul style="overflow: hidden">
 		

@@ -218,16 +218,17 @@ permalink: "/team/"
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  <ul style="overflow: hidden">
-	  
+  <i>{{ member.info }}
+    
   {% if member.linkable == 1 %}
   <br>Now: <a href="{{ member.link }}">{{ member.now }}</a>
   {% endif %}
   
   {% if member.linkable == 0 %}
-  <i>Now: {{ member.now }}</i>
+  <br>Now: {{ member.now }}</i>
   {% endif %}
+
+  <ul style="overflow: hidden">
 		
 	</ul>
 </div>

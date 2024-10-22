@@ -221,11 +221,11 @@ permalink: "/team/"
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
 	  
-  {% if member.link == 1 %}
+  {% if member.linkable == 1 %}
   <br>Now: <a href="{{ member.link }}">{{ member.now }}</a>
   {% endif %}
   
-  {% if member.link == 0 %}
+  {% if member.linkable == 0 %}
   <i>Now: {{ member.now }}</i>
   {% endif %}
 		

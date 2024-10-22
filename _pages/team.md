@@ -219,15 +219,12 @@ permalink: "/team/"
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}
-    
   {% if member.linkable == 1 %}
   <br>Now: <a href="{{ member.link }}">{{ member.now }}</a>
   {% endif %}
-  
   {% if member.linkable == 0 %}
   <br>Now: {{ member.now }}</i>
   {% endif %}
-
   <ul style="overflow: hidden">
 		
 	</ul>

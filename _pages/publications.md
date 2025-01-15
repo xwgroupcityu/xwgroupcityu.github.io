@@ -7,6 +7,7 @@ permalink: "/publications/"
 ---
 
 # Publications
+names of group members in bold
 ### 2024
 {% for publi in site.data.publist_24 %}
 

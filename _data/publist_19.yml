@@ -2,7 +2,7 @@
   image: dummy.png
   description: ""
   authors: 
-    S Zhai, DJ Jacob, X Wang, L Shen, K Li, Y Zhang, K Gui, T Zhao, H Liao  
+    S Zhai, DJ Jacob, <b>X Wang</b>, L Shen, K Li, Y Zhang, K Gui, T Zhao, H Liao  
   link:
     url: https://www.atmos-chem-phys.net/19/11031/2019/
     display: Atmospheric Chemistry and Physics 19 (16), 11031-11041

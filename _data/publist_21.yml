@@ -1,6 +1,6 @@
 - title: "Relating geostationary satellite measurements of aerosol optical depth (AOD) over East Asia to fine particulate matter (PM2.5): insights from the KORUS-AQ aircraft campaign and GEOS-Chem model simulations"
   authors: 
-    S-X Zhai, DJ. Jacob, JF. Brewer, K Li, JM Moch, J Kim, S Lee, H Lim, HC Lee, SK Kuk, RJ. Park, JI Jeong, X Wang, Pi Liu, G Luo, F Yu, J Meng, RV Martin, KR Travis, JW Hair, BE Anderson, JE Dibb, JL Jimenez, P Campuzano-Jost, BA Nault, J-H Woo, Y Kim, Q Zhang, H Liao
+    S-X Zhai, DJ. Jacob, JF. Brewer, K Li, JM Moch, J Kim, S Lee, H Lim, HC Lee, SK Kuk, RJ. Park, JI Jeong, <b>X Wang</b>, Pi Liu, G Luo, F Yu, J Meng, RV Martin, KR Travis, JW Hair, BE Anderson, JE Dibb, JL Jimenez, P Campuzano-Jost, BA Nault, J-H Woo, Y Kim, Q Zhang, H Liao
   link:
     url: https://acp.copernicus.org/articles/21/16775/2021/
     display: "Atmospheric Chemistry and Physics, 21, 16775–16791"
@@ -8,7 +8,7 @@
 
 - title: "Global Impact of Lightning-produced Oxidants"
   authors: 
-    J Mao, T Zhao, CA Keller, X Wang, PJ McFarland, JM Jenkins, WH Brune
+    J Mao, T Zhao, CA Keller, <b>X Wang</b>, PJ McFarland, JM Jenkins, WH Brune
   submit: 
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095740
@@ -17,7 +17,7 @@
 
 - title: "Understanding Sources of Atmospheric Hydrogen Chloride in Coastal Spring and Continental Winter"
   authors: 
-    AA Angelucci, TC Furlani, X Wang, DJ Jacob, TC VandenBoer, CJ Young
+    AA Angelucci, TC Furlani, <b>X Wang</b>, DJ Jacob, TC VandenBoer, CJ Young
   submit: 
   link:
     url: https://pubs.acs.org/doi/10.1021/acsearthspacechem.1c00193
@@ -26,7 +26,7 @@
 
 - title: "Improved Mechanistic Model of the Atmospheric Redox Chemistry of Mercury"
   authors: 
-    V Shah, DJ Jacob, CP Thackray, X Wang, EM Sunderland, TS Dibble, A Saiz-Lopez, I Černušák, V Kellö, PJ. Castro, R Wu, C Wang  
+    V Shah, DJ Jacob, CP Thackray, <b>X Wang</b>, EM Sunderland, TS Dibble, A Saiz-Lopez, I Černušák, V Kellö, PJ. Castro, R Wu, C Wang  
   submit: 
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.est.1c03160
@@ -35,7 +35,7 @@
 
 - title: "Anthropogenic Impacts on Tropospheric Reactive Chlorine since the Preindustrial"
   authors: 
-    S-T Zhai, X Wang, JR McConnell, L Geng, J Cole-Di, M Sigl, N Chelman, T Sherwen, R Pound, K Fujita, SHattori, JM Moch, L Zhu, MJ Evans, M Legrand, P Liu, D Pasteris, YC Chan, LT Murray, B Alexander
+    S-T Zhai, <b>X Wang</b>, JR McConnell, L Geng, J Cole-Di, M Sigl, N Chelman, T Sherwen, R Pound, K Fujita, SHattori, JM Moch, L Zhu, MJ Evans, M Legrand, P Liu, D Pasteris, YC Chan, LT Murray, B Alexander
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093808
     display: "Geophyscial Research Letters, 48, 14, e2021GL093808"
@@ -43,7 +43,7 @@
 
 - title: "Global tropospheric halogen (Cl, Br, I) chemistry and its impact on oxidants"
   authors: 
-    X Wang, DJ Jacob, W Downs, S-T Zhai, L Zhu, V Shah, CD Holmes, T Sherwen, B Alexander, MJ Evans, SD Eastham, JA Neuman, P Veres, TK Koenig, R Volkamer, GL Huey, TJ Bannan, CJ Percival, BH Lee, JA Thornton 
+    <b>X Wang</b>, DJ Jacob, W Downs, S-T Zhai, L Zhu, V Shah, CD Holmes, T Sherwen, B Alexander, MJ Evans, SD Eastham, JA Neuman, P Veres, TK Koenig, R Volkamer, GL Huey, TJ Bannan, CJ Percival, BH Lee, JA Thornton 
   link:
     url: https://acp.copernicus.org/articles/21/13973/2021/
     display: "Atmospheric Chemistry and Physics, 21, 13973–13996"
@@ -51,7 +51,7 @@
 
 - title: "Heterogeneous Nitrate Production Mechanisms in Intense Haze Events in the North China Plain"
   authors: 
-    YC Chan, MJ Evans, P He, CD Holmes, L Jaeglé, P Kasibhatla, XY Liu, T Sherwen, JA Thornton, X Wang, Z Xie, S-T Zhai, B Alexander   
+    YC Chan, MJ Evans, P He, CD Holmes, L Jaeglé, P Kasibhatla, XY Liu, T Sherwen, JA Thornton, <b>X Wang</b>, Z Xie, S-T Zhai, B Alexander   
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD034688
     display: "Journal of Geophysical Research: Atmospheres, 126, e2021JD034688"
@@ -59,7 +59,7 @@
   
 - title: "Control of particulate nitrate air pollution in China"
   authors: 
-    S-X Zhai, DJ Jacob, X Wang, Z Liu, T Wen, V Shah, K Li, JM Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, Y Wang, HC Lee, H Choi, H Liao   
+    S-X Zhai, DJ Jacob, <b>X Wang</b>, Z Liu, T Wen, V Shah, K Li, JM Moch, KH. Bates, S Song, L Shen, Y Zhang, G Luo, F Yu, Y Sun, L Wang, M Qi, J Tao, K Gui, H Xu, Q Zhang, T Zhao, Y Wang, HC Lee, H Choi, H Liao   
   link:
     url: https://doi.org/10.1038/s41561-021-00726-z
     display: Nature Geoscience, 14, 389–395.
@@ -67,7 +67,7 @@
 
 - title: "Enhanced Aerosol Particle Growth Sustained by High Continental Chlorine Emission in India"
   authors: 
-    SS Gunthel, P Liu, U Panda, SS Raj, A Sharma, E Darbyshire, E Reyes-Villegas, J Allan, Y Chen, X Wang, S Song, ML Pöhlker, L Shi, Y Wang, SM Kommula, T Liu, R Ravikrishna, Gordon McFiggans, LJ Mickley, Scot T. Martin, Ulrich Pöschl, MO Andreae, H Coe 
+    SS Gunthel, P Liu, U Panda, SS Raj, A Sharma, E Darbyshire, E Reyes-Villegas, J Allan, Y Chen, <b>X Wang</b>, S Song, ML Pöhlker, L Shi, Y Wang, SM Kommula, T Liu, R Ravikrishna, Gordon McFiggans, LJ Mickley, Scot T. Martin, Ulrich Pöschl, MO Andreae, H Coe 
   link: 
     url: https://www.nature.com/articles/s41561-020-00677-x
     display: Nature Geoscience, 14, 77–84.

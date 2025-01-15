@@ -1,6 +1,6 @@
 - title: "Global modeling of cloudwater acidity, rainwater acidity, and acid inputs to ecosystems"
   authors: 
-    V Shah V, DJ Jacob, JM Moch, X Wang, S Zhai  
+    V Shah V, DJ Jacob, JM Moch, <b>X Wang</b>, S Zhai  
   link:
     url: https://acp.copernicus.org/articles/20/12223/2020/
     display: Atmospheric Chemistry and Physics, 20, 12223–12245.
@@ -8,7 +8,7 @@
 
 - title: "Effects of anthropogenic chlorine on PM2.5 and ozone air quality in China"
   authors: 
-    X Wang, DJ Jacob, X Fu, T Wang, M Le Breton, M Hallquist, Z Liu, EE McDuffie, H Liao   
+    <b>X Wang</b>, DJ Jacob, X Fu, T Wang, M Le Breton, M Hallquist, Z Liu, EE McDuffie, H Liao   
   submit: 
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.est.0c02296
@@ -17,7 +17,7 @@
 
 - title: "Lifecycle of light-absorbing carbonaceous aerosols"
   authors: 
-    D Liu, C He, JP Schwarz, X Wang  
+    D Liu, C He, JP Schwarz, <b>X Wang</b>  
   submit: 
   link:
     url: https://www.nature.com/articles/s41612-020-00145-8
@@ -26,7 +26,7 @@
 
 - title: "Spatial and temporal variability of brown carbon in United States: implications for direct radiative effects"
   authors: 
-    N June, X Wang, L-W A Chen, JC Chow, JG Watson. XL Wang, BH Henderson, Y Zheng, J Mao    
+    N June, <b>X Wang</b>, L-W A Chen, JC Chow, JG Watson. XL Wang, BH Henderson, Y Zheng, J Mao    
   submit: 
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090332
@@ -35,7 +35,7 @@
   
 - title: "Constraining remote oxidation capacity with ATom observations"
   authors: 
-    KR Travis, CL Heald, HM Allen, EC Apel, SR Arnold, DR Blake, WH Brune, X Chen, R Commane, JD Crounse, BC Daube, GS Diskin, JW Elkins, MJ Evans, SR Hall, EJ Hintsa, RS Hornbrook, PS Kasibhatla, MJ Kim, G Luo, K McKain, DB Millet, FL Moore, J Peischl, TB Ryerson, T Sherwen, AB Thames, K Ullmann, X Wang, PO Wennberg, GM Wolfe, F Yu    
+    KR Travis, CL Heald, HM Allen, EC Apel, SR Arnold, DR Blake, WH Brune, X Chen, R Commane, JD Crounse, BC Daube, GS Diskin, JW Elkins, MJ Evans, SR Hall, EJ Hintsa, RS Hornbrook, PS Kasibhatla, MJ Kim, G Luo, K McKain, DB Millet, FL Moore, J Peischl, TB Ryerson, T Sherwen, AB Thames, K Ullmann, <b>X Wang</b>, PO Wennberg, GM Wolfe, F Yu    
   link:
     url: https://www.atmos-chem-phys.net/20/7753/2020/acp-20-7753-2020.html
     display: Atmospheric Chemistry and Physics, 20, 7753–7781
@@ -43,7 +43,7 @@
 
 - title: "An adaptive method for speeding up the numerical integration of chemical mechanisms in atmospheric chemistry models: application to GEOS-Chem version 12.0.0"
   authors: 
-    L Shen, DJ Jacob, M Santillana, X Wang, W Chen    
+    L Shen, DJ Jacob, M Santillana, <b>X Wang</b>, W Chen    
   link:
     url: https://www.geosci-model-dev.net/13/2475/2020/
     display: Geoscientific Model Development, 13, 2475–2486
@@ -51,7 +51,7 @@
   
 - title: "Effects of sea salt aerosol emissions for Marine Cloud Brightening on atmospheric chemistry: Implications for radiative forcing"
   authors: 
-    HM Horowitz, C Holmes, A Wright, T Sherwen, X Wang, M Evans, J Huang, L Jaeglé, Q Chen, S Zhai, B Alexander    
+    HM Horowitz, C Holmes, A Wright, T Sherwen, <b>X Wang</b>, M Evans, J Huang, L Jaeglé, Q Chen, S Zhai, B Alexander    
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL085838
     display: Geophysical Research Letters, 47, e2019GL085838

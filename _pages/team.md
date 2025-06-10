@@ -165,6 +165,8 @@ permalink: "/team/"
 </div>
 {% endif %}
 
+
+{% comment %}
 ### Co-supervised students in [Prof. Wen Zhou](https://aos.fudan.edu.cn/97/c3/c14809a432067/page.htm)'s group at Fudan University
 
 {% assign number_printed = 0 %}
@@ -197,6 +199,7 @@ permalink: "/team/"
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+{% endcomment %}
 
 
 {% comment %}

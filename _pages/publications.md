@@ -8,6 +8,14 @@ permalink: "/publications/"
 
 # Publications
 names of group members in bold
+### 2026
+{% for publi in site.data.publist_26 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>  <em>{{ publi.submit }} </em><br /> 
+
+{% endfor %}
+
 ### 2025
 {% for publi in site.data.publist_25 %}
 

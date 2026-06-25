@@ -8,14 +8,25 @@ permalink: "/teaching/"
 
 # Teaching
 
+{% comment %}  
 Course catalogue and syllabus for School of Energy and Environment at City University of Hong Kong  can be found [here](https://www.cityu.edu.hk/see/programmes).
-
-
+{% endcomment %}
 
 ----
+### Fundamentals of Climate Change Science (Details coming soon ~)
+<br/>
+<br/>
 
-### SEE4204 Environmental Systems Modeling
-(undergraduate core, spring)
+### Courses taught in City University of Hong Kong during 2020-2025
+SEE4204 Environmental Systems Modeling (undergraduate core)
+SEE5201/8211 Air Pollution and Atmospheric Chemistry (MSc and PhD elective)
+SEE4219 Air Quality Modeling (undergraduate elective)
+
+<br/>
+<br/>
+
+{% comment %} 
+(undergraduate core)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/tecpic/see4204.jpg){: style="width: 410px; float: left; border: 5px;padding:10px"}
 
@@ -69,3 +80,4 @@ Key topics include: steady-state dispersion models; Lagrangian transport models;
 Also contributes to the air pollution and atmospheric change sections in SEE2201 Fundamentals of Environmental Engineering (undergraduate core, spring).
 <br/>
 <br/>
+{% endcomment %}

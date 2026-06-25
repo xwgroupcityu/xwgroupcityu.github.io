@@ -19,7 +19,9 @@ Course catalogue and syllabus for School of Energy and Environment at City Unive
 
 ### Courses taught in City University of Hong Kong during 2020-2025
 SEE4204 Environmental Systems Modeling (undergraduate core)
+
 SEE5201/8211 Air Pollution and Atmospheric Chemistry (MSc and PhD elective)
+
 SEE4219 Air Quality Modeling (undergraduate elective)
 
 <br/>

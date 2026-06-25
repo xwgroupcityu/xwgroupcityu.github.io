@@ -5,9 +5,8 @@ excerpt: Home
 sitemap: false
 permalink: "/"
 ---
-### As of April 2026, Xuan Wang has left CityUHK and moved to [Shanghai Jiao Tong University](https://lcc.sjtu.edu.cn/En/Data/View/4595). He will no longer take new students in Hong Kong.
 
-We are the Atmospheric Chemistry and Physics Modeling Group at City University of Hong Kong. Our researches focus on chemical composition of the atmosphere and their impacts on air quality and climate change. The group uses global and regional models with observations to study the complex interactions between atmospheric chemistry, meteorology, human activities, biological processes, air pollution and climate. 
+We are the Atmospheric Environment and Climate Modeling Group at Shanghai Jiao Tong University. We use numerical and AI models with field and satellite observations to study the complex interactions between human activities, biological processes, atmospheric chemical compositions, air pollution, and the climate. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

@@ -109,7 +109,13 @@ permalink: "/team/"
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-		
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+	
 	</ul>
 </div>
 	
@@ -130,7 +136,9 @@ permalink: "/team/"
 [Full CV (as of April 2024)](CV.pdf) 
 	{% endcomment %}
 
-## Current Group Members
+## Group Members at Shanghai Jiao Tong University (Coming soon ~)
+
+## Group Members at City University of Hong Kong
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_1 %}

@@ -1,9 +1,9 @@
-- name: Xuan Wang (王轩/王軒)
+- name: Xuan Wang (王轩)
   photo: Xuan.jpg
-  info: 'Assistant Professor'
-  email: xuanwang@cityu.edu.hk
-  number_educ: 2
-  education1: 'Postdoc, Harvard University, 2017-2019'
-  education2: 'PhD, MIT, 2017'
-  office: YEUNG-G5711
-  tel: (+852) 3442-2483
+  info: 'Associate Professor'
+  email: xuanw@sjtu.edu.cn
+  number_educ: 3
+  education1: 'Assistant Professor, City University of Hong Kong, 2020-2025'
+  education2: 'Postdoc, Harvard University, 2017-2019'
+  education3: 'PhD, MIT, 2017'
+  office: A324

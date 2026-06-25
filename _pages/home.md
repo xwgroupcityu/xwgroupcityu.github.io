@@ -1,5 +1,5 @@
 ---
-title: Xuan Wang Group at CityU
+title: Xuan Wang Group at SJTU
 layout: homelay
 excerpt: Home
 sitemap: false

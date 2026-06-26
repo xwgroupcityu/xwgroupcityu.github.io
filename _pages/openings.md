@@ -10,6 +10,7 @@ We are always looking for new group members with talent and passion!
 
 ### 博士后 Opportunities for prospective Postdocs
 课题组长期招收大气环境模拟方向的博士后研究人员。申请者应满足以下条件：对低碳与大气环境研究有浓厚兴趣；具备良好的编程与数据分析基础；具有大气化学传输模式、气候模式或地球系统模式的相关研究经验；或在大气化学外场观测、实验室数据分析方面有研究基础，且有意愿向数值模拟方向发展。欢迎已获得或即将获得大气科学、海洋科学、地球科学、环境科学、遥感等相关领域博士学位，获得博士学位不超过3年，年龄不超过35岁的同学咨询。有意申请的同学请将个人简历、发表论文列表、通过电子邮件发送至 xuanw@sjtu.edu.cn，并请在邮件主题注明“博士后+本人姓名”。
+
 上海交通大学博士后实行年薪制，年薪不低于24万元，课题组还将在此基础上额外支持，并按规定协助落户、子女入学事宜。学校鼓励优秀博士后申请各类基金和人才支持计划。海外毕业博士可申请上海市海外优秀博士后、学校思源博士后等项目，年薪可达45万元。相关政策可见：https://lcc.sjtu.edu.cn/Data/List/bsh
 
 We seek postdocs with experience in atmospheric chemsitry modeling, climate modeling, remote sensing, and/or the interpretation of atmospheric composition observations. If you will be completing your PhD in the coming year and would be interested in joining our group, you are encouraged to contact Xuan Wang by email to inquire.

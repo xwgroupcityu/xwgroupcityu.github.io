@@ -55,11 +55,11 @@ We are the Atmospheric Environment and Climate Modeling Group at Shanghai Jiao T
 **课题组长期招收硕博士研究生和博士后，并欢迎有兴趣的本科生参与科研实习。** [(详情请见)]({{ site.url }}{{ site.baseurl }}/openings) 
 
 **We usually have openings for new PhD students, Postdocs, Master students, and undergradate students to join the team.** [(check here)]({{ site.url }}{{ site.baseurl }}/openings) 
+
+<br/>
 <br/>
 
-**课题组成果和学生获奖被学院等官方网站报道：**
-
-**Our achievements and news featured on school website:**
+**课题组成果和学生获奖被学院等官方网站报道 Our achievements and news featured on school website:**
 
 [SEE PhD student received the excellent poster presentation award in the 12th National Conference on Environmental Chemistry](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-student-received-excellent-poster-presentation-award-12th-national)
 

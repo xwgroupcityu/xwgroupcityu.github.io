@@ -19,7 +19,7 @@ Our overarching goal is to advance the understanding of atmospheric composition 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brc.gif){: style="width: 420px; float: right; border: 10px;padding:15px"}
 
 <br />
-地球环境和气候受自然过程与人类活动的共同影响，与大气的化学和物理过程密切相关。当前，大气气溶胶的来源与性质是全球气候变化和区域极端污染中影响显著但不确定性极高的关键因素。课题组目前的研究方向包括：二次有机气溶胶生成、吸光性含碳气溶胶、粗颗粒气溶胶、气溶胶-云相互作用等。
+地球环境和气候受自然过程与人类活动的共同影响，与大气的化学和物理过程密切相关。当前，大气气溶胶的来源与性质是全球气候变化和区域极端污染中影响显著但不确定性极高的关键因素。课题组目前的相关研究方向包括：二次有机气溶胶生成、吸光性含碳气溶胶、粗颗粒气溶胶、气溶胶-云相互作用等。
 
 The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the sources and properties of atmospheric aerosols are significant and very uncertain factors contributing to global climate change. Current topics in the group include: secondary organic aerosol formation, carbonaceous aerosols, coarse aerosols, aerosol-cloud interactions...
 
@@ -31,13 +31,13 @@ The earth's climate is influenced by both natural and human activities, and clos
 
 ### 人工智能在地球科学中的应用 AI in Geoscience 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/pinn.jpg){: style="width: 420px; float: right; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/pinn.jpg){: style="width: 420px; float: left; border: 10px;padding:15px"}
 
 <br />
-地球环境和气候受自然过程与人类活动的共同影响，与大气的化学和物理过程密切相关。当前，大气气溶胶的来源与性质是全球气候变化和区域极端污染中影响显著但不确定性极高的关键因素。课题组目前的研究方向包括：二次有机气溶胶生成、吸光性含碳气溶胶、粗颗粒气溶胶、气溶胶-云相互作用等。
 
-The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the sources and properties of atmospheric aerosols are significant and very uncertain factors contributing to global climate change. Current topics in the group include: secondary organic aerosol formation, carbonaceous aerosols, coarse aerosols, aerosol-cloud interactions...
+大气化学传输模式与气候模式是解析大气物理化学过程、预测污染与气候演变、以及制定防治政策的重要工具。然而，随着地球系统过程日趋复杂，传统模式在模拟精度与计算效率方面均面临瓶颈。近年来，人工智能技术的快速发展为辅助和优化传统数值模拟提供了新思路。课题组目前的相关研究方向主要包括：基于物理信息神经网络的模式参数化、多源数据融合同化、以及可解释的模拟响应机制分析等。
 
+Atmospheric models are essential tools for unraveling atmospheric processes, predicting pollution and the cliamte, and informing mitigation policies. However, as the Earth system processes grow increasingly complex, traditional models face challenges in both simulation accuracy and computational efficiency. Recent advances in artificial intelligence offer new opportunities to assist and optimize conventional numerical modeling. Current topics in the group include: physics-informed neural networks assisting model parameterization, multi-source data assimilation, interpreting model response mechanisms ...
 
 <br/>
 <br/>

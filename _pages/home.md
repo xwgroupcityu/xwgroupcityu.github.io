@@ -61,7 +61,7 @@ We are the Atmospheric Environment and Climate Modeling Group at Shanghai Jiao T
 
 **Our achievements and news featured on school website:**
 
-</br?
+</br>
 [SEE PhD student received the excellent poster presentation award in the 12th National Conference on Environmental Chemistry](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-student-received-excellent-poster-presentation-award-12th-national)
 
 [SEE PhD student’s research paper on “Minimizing uncertainties in climate projections and water budget reveals the vulnerability of freshwater to climate change” is published on One Earth.](https://www.cityu.edu.hk/see/outreach/news-center/see-phd-students-research-paper-minimizing-uncertainties-climate-projections)

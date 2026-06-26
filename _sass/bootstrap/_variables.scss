@@ -19,7 +19,7 @@ $brand-primary:         #158CBA !default;
 $brand-success:         #28B62C !default;
 $brand-info:            #75CAEB !default;
 $brand-warning:         #FF851B !default;
-$brand-danger:          #C9151E ;
+$brand-danger:          #a42423 ;
 
 
 //== Scaffolding
@@ -366,11 +366,11 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             #FFFFFF ;
-$navbar-default-bg:                #80C2F7 ;
+$navbar-default-bg:                #fffbf0 ;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                #19417A ;
+$navbar-default-link-color:                #013E75 ;
 $navbar-default-link-hover-color:          $gray-dark !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;

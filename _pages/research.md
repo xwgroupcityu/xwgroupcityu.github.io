@@ -46,7 +46,7 @@ Atmospheric models are essential tools for unraveling atmospheric processes, pre
 
 ### 海洋大气环境 Marine Atmospheric Environment
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/iodine.png){: style="width: 320px; float: right; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/iodine.png){: style="width: 260px; float: right; border: 10px;padding:15px"}
 
 <br />
 
@@ -60,7 +60,7 @@ The ocean covers nearly three-quarters of the Earth's surface, and coastal regio
 ----
 
 ### 低碳领域学科交叉研究 Researches beyond Atmospheric Chemistry
-![]({{ site.url }}{{ site.baseurl }}/images/respic/md.jpg){: style="width: 380px; float: left; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/md.jpg){: style="width: 320px; float: left; border: 10px;padding:15px"}
 
 <br />
 

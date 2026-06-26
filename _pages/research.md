@@ -31,7 +31,7 @@ The earth's climate is influenced by both natural and human activities, and clos
 
 ### 人工智能在地球科学中的应用 AI in Geoscience 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/pinn.jpg){: style="width: 420px; float: left; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/pinn.jpg){: style="width: 480px; float: left; border: 10px;padding:15px"}
 
 <br />
 
@@ -44,9 +44,9 @@ Atmospheric models are essential tools for unraveling atmospheric processes, pre
 
 ----
 
-## 海洋大气环境 Marine Atmospheric Environment
+### 海洋大气环境 Marine Atmospheric Environment
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/iodine.png){: style="width: 480px; float: right; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/iodine.png){: style="width: 400px; float: right; border: 10px;padding:15px"}
 
 <br />
 
@@ -58,31 +58,15 @@ The ocean covers nearly three-quarters of the Earth's surface, and coastal regio
 <br/>
 
 ----
-## Aerosol Sources and Climate Effects
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/brc.gif){: style="width: 420px; float: left; border: 10px;padding:15px"}
-
-<br />
-
-The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the sources and properties of atmospheric aerosols are significant and very uncertain factors contributing to global climate change.  
-
-In the group, we focus on understanding the lifecycles of atmopsheric aerosols, as well as their interactions with climate system. Current topics include: aerosol direct radiative forcing; black and brown carbon; coarse aerosols ...
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-----
-## Beyond Atmospheric Chemistry
+## 低碳领域学科交叉研究 Researches beyond Atmospheric Chemistry
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/md.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
 
 <br />
 
-We are actively exploring possiblities of applying atmopsheric sciences and our modeling techniques on solving other environmental and engergy problems. This includes developments of new model methods and assisting the designs of carbon neutral strategies. 
+课题组正在积极推动学科交叉融合，拓展相关技术的应用边界，发展新型模拟方法，为碳中和策略设计及其他环境与能源问题的解决提供助力。课题组目前的相关研究方向主要包括：城市碳循环、可持续城市规划等。
 
-Current topics in the group include: urban planning and carbon cycle; mathematical model for urban climate policy; life-cycle assessment with considering nonlinear physics and chemsitry ...
+We are actively exploring possiblities of applying atmopsheric sciences and our modeling techniques on solving other environmental and engergy problems. This includes developments of new model methods and assisting the designs of carbon neutral strategies. Current topics in the group include: carbon sink, sustainable urban planning ...
 
 <br />
 <br />

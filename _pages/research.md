@@ -14,6 +14,38 @@ Our overarching goal is to advance the understanding of atmospheric composition 
 
 以下是目前课题组主要关注的领域 Here are the main research themes in our group:
 
+### 大气溶胶及其气候效应 Aerosols and their Climate Effects
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/brc.gif){: style="width: 420px; float: right; border: 10px;padding:15px"}
+
+<br />
+地球环境和气候受自然过程与人类活动的共同影响，与大气的化学和物理过程密切相关。当前，大气气溶胶的来源与性质是全球气候变化和区域极端污染中影响显著但不确定性极高的关键因素。课题组目前的研究方向包括：二次有机气溶胶生成、吸光性含碳气溶胶、粗颗粒气溶胶、气溶胶-云相互作用等。
+
+The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the sources and properties of atmospheric aerosols are significant and very uncertain factors contributing to global climate change. Current topics in the group include: secondary organic aerosol formation, carbonaceous aerosols, coarse aerosols, aerosol-cloud interactions...
+
+
+<br/>
+<br/>
+
+----
+
+### 人工智能在地球科学中的应用 AI in Geoscience 
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/pinn.jpg){: style="width: 420px; float: right; border: 10px;padding:15px"}
+
+<br />
+地球环境和气候受自然过程与人类活动的共同影响，与大气的化学和物理过程密切相关。当前，大气气溶胶的来源与性质是全球气候变化和区域极端污染中影响显著但不确定性极高的关键因素。课题组目前的研究方向包括：二次有机气溶胶生成、吸光性含碳气溶胶、粗颗粒气溶胶、气溶胶-云相互作用等。
+
+The earth's climate is influenced by both natural and human activities, and closely related to the chemical and physical processes in the atmosphere. Currently, the sources and properties of atmospheric aerosols are significant and very uncertain factors contributing to global climate change. Current topics in the group include: secondary organic aerosol formation, carbonaceous aerosols, coarse aerosols, aerosol-cloud interactions...
+
+
+<br/>
+<br/>
+
+----
+
+
+
 
 ## Modeling of Global and Regional Tropospheric Chemistry
 

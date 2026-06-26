@@ -44,18 +44,15 @@ Atmospheric models are essential tools for unraveling atmospheric processes, pre
 
 ----
 
+## 海洋大气环境 Marine Atmospheric Environment
 
-
-
-## Modeling of Global and Regional Tropospheric Chemistry
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/chlorine.jpg){: style="width: 480px; float: right; border: 10px;padding:15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/iodine.png){: style="width: 480px; float: right; border: 10px;padding:15px"}
 
 <br />
 
-Tropospheric chemsitry contributes to a series of issues in the earth system, such as air pollution, climate change, and ecological destruction. Modeling plays an important role in studying tropospheric chemistry by identifying processes, interpreting observations, assessing impacts, and making projections. 
+海洋覆盖了地球表面近四分之三的面积，沿海地区的人口密度约为全球平均水平的两倍。海-气相互作用对全球气候系统与局地大气环境均有深远影响。课题组在该领域重点关注海-气相互作用过程中产生的排放及其引发的大气化学过程。目前的相关研究方向主要包括：全球卤素循环、海洋挥发性有机物排放、海盐气溶胶等。
 
-In the group, we develop and use model schemes based on the GEOS-Chem global model framework to study the oxidants, gases, aerosols, and foundamental chemistry in troposphere. Current topics inlcude: tropospheric halogen chemistry; secondary aerosol formation;  heterogeneous reactions; air quality in coastal environments ...
+The ocean covers nearly three-quarters of the Earth's surface, and coastal regions host approximately twice the global average population density. Air-sea interactions have substantial influences on both the global climate and regional atmospheric environments. Our group focuses on emissions arising from air-sea interactions and the subsequent chemical processes in the atmopshere. Current topics include: global halogen cycling, oceanic emissions of volatile organic compounds, sea salt aerosols ...
 
 <br/>
 <br/>

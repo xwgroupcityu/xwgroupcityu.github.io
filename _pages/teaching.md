@@ -13,7 +13,7 @@ Course catalogue and syllabus for School of Energy and Environment at City Unive
 {% endcomment %}
 
 ----
-### Fundamentals of Climate Change Science (Details coming soon ~)
+### 气候变化的科学基础 Fundamentals of Climate Change Science (Details coming soon ~)
 <br/>
 <br/>
 

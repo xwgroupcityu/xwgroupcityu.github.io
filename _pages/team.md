@@ -136,12 +136,12 @@ permalink: "/team/"
 [Full CV (as of April 2024)](CV.pdf) 
 	{% endcomment %}
 
-## Group Members at Shanghai Jiao Tong University (Coming soon ~)
+## 课题组成员（上海交通大学） Group Members at Shanghai Jiao Tong University (Coming soon ~)
 
 <br/>
 <br/>
 
-## Group Members at City University of Hong Kong
+## 课题组成员（香港城市大学） Group Members at City University of Hong Kong
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_1 %}
@@ -228,7 +228,7 @@ permalink: "/team/"
 {% endfor %}
 {% endcomment %}
 
-## Alumni
+## 前成员 Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.team_3 %}
 

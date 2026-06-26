@@ -6,7 +6,7 @@ sitemap: false
 permalink: "/"
 ---
 
-我们是上海交通大学大气环境与气候模拟实验室，致力于利用数值模拟与和工智能方法，结合地面、海洋、航空观测和卫星遥感等多源数据，研究人类活动、生物圈过程、大气化学成分、空气污染与气候之间的复杂相互作用，并为大气环境评估与预测、以及低碳可持续发展提科学方案。
+我们是上海交通大学大气环境与气候模拟实验室，致力于利用数值模拟和人工智能方法，结合地面、海洋、航空观测和卫星遥感等多源数据，研究人类活动、生物圈过程、大气化学成分、空气污染与气候之间的复杂相互作用，并为大气环境评估与预测、以及低碳可持续发展提科学方案。
 
 We are the Atmospheric Environment and Climate Modeling Group at Shanghai Jiao Tong University. We use numerical and AI models with field and satellite observations to study the complex interactions between human activities, biological processes, atmospheric chemical compositions, air pollution, and the climate. 
 

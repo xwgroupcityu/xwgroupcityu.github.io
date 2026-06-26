@@ -138,6 +138,9 @@ permalink: "/team/"
 
 ## Group Members at Shanghai Jiao Tong University (Coming soon ~)
 
+<br/>
+<br/>
+
 ## Group Members at City University of Hong Kong
 
 {% assign number_printed = 0 %}

@@ -8,9 +8,11 @@ permalink: "/research/"
 
 # Research
 
-Our overarching goal is to explore and understand atmospheric compositions and their impacts on pollution and climate. To do so, we use chemical transport models (CTM) together with observations (from all scales: ground, drone, aircraft, satellite, etc.) to study the chemistry and physics in the atmosphere and biosphere.
+课题组的核心研究目标是深化对大气成分及其与人类活动、大气环境和全球气候相互作用的理解。为此，我们融合大气化学传输模式、气候模式和人工智能技术，结合从地面、无人机、航空到卫星遥感等多尺度观测数据，探究大气中的化学与物理过程，并构建模型和数据产品，服务于可持续发展应用。
 
-Here are the main research themes in our group:
+Our overarching goal is to advance the understanding of atmospheric composition and its interactions with human activities and climate. To achieve this, we integrate chemical transport models, climate models, and AI technologies with multi-scale observations (ranging from ground-based, drone, and aircraft measurements to satellite remote sensing) to investigate the chemistry and physics of the atmosphere. We also develop models and data that support sustainable development applications.
+
+以下是目前课题组主要关注的领域 Here are the main research themes in our group:
 
 
 ## Modeling of Global and Regional Tropospheric Chemistry

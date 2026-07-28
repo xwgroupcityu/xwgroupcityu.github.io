@@ -13,7 +13,13 @@ Course catalogue and syllabus for School of Energy and Environment at City Unive
 {% endcomment %}
 
 ----
-### 气候变化的科学基础 Fundamentals of Climate Change Science (Details coming soon ~)
+### GEOS2200J 气候变化的科学基础 Fundamentals of Climate Change Science 
+浦江国际学院本科生通识课（英文）Undergraduate course in Global College
+
+全球气候变化是人类面临的严峻挑战，作为复杂的地球系统科学问题，其成因与影响远非碳排放和气候变暖所能概括。本课程将重点介绍大气科学基本原理以及自然过程与人类活动的交互过程。通过结合经典理论和近年最新科学进展，本课程旨在培养学生严谨的逻辑思维与系统性分析能力，同时激发其在地球科学领域的兴趣和跨学科创新思维。
+
+Global climate change represents one of the most critical challenges confronting human society. As a complex Earth system science issue, its causes and impacts extend far beyond the simplistic dimensions of carbon emissions and global warming. This course introduces fundamental principles of atmospheric science and the interactive mechanisms between natural processes and human activities.Integrating the latest scientific findings, the course aims to cultivate logical thinking among students, and stimulate their interests and interdisciplinary innovations for sustainable development.
+
 <br/>
 <br/>
 
